@@ -1,15 +1,6 @@
 /*
- * ============================================================
- *  File    : q04_sum_scanf.c
- *  Unit    : 1 - Introduction (Variable, printf, scanf)
- * ------------------------------------------------------------
  *  Q4. Write a program to read two integers using scanf()
  *      and print their sum.
- * ------------------------------------------------------------
- *  Output:
- *      Enter two integers: 10 20
- *      10 + 20 = 30
- * ============================================================
  */
 
 #include <stdio.h>
@@ -28,3 +19,8 @@ int main()
 
     return 0;
 }
+/*
+ *  Output:
+ *      Enter two integers: 10 20
+ *      10 + 20 = 30
+    */
