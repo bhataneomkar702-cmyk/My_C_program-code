@@ -1,14 +1,6 @@
 /*
- * ============================================================
- *  File    : q09_access_array_elements.c
- *  Unit    : 3 - Array (1D and 2D arrays)
- * ------------------------------------------------------------
  *  Q9. Write a program to access the 3rd, last and first
  *      elements of an array using their index.
- * ------------------------------------------------------------
- *  Output:
- *      8 16 2
- * ============================================================
  */
 
 #include <stdio.h>
@@ -29,3 +21,7 @@ int main()
 
     return 0;
 }
+/*
+*  Output:
+ *      8 16 2
+    */
