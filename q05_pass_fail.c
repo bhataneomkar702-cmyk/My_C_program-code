@@ -1,15 +1,7 @@
-/*
- * ============================================================
- *  File    : q05_pass_fail.c
- *  Unit    : 2 - Decision Making and Looping (if, else if, for)
- * ------------------------------------------------------------
- *  Q5. Write a program to read marks and display PASS or FAIL
+
+ /*  Q5. Write a program to read marks and display PASS or FAIL
  *      using if and else if (marks must be 0-100).
  * ------------------------------------------------------------
- *  Output:
- *      Enter the student's marks (0-100): 50
- *      Result: PASS
- * ============================================================
  */
 
 #include <stdio.h>
@@ -38,3 +30,8 @@ int main()
 
     return 0;
 }
+
+/*  Output:
+ *      Enter the student's marks (0-100): 50
+ *      Result: PASS
+ */
