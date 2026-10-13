@@ -1,14 +1,6 @@
 /*
- * ============================================================
- *  File    : q06_sum_1_to_10.c
- *  Unit    : 2 - Decision Making and Looping (if, else if, for)
- * ------------------------------------------------------------
  *  Q6. Write a program to find the sum of numbers from 1 to 10
  *      using a for loop.
- * ------------------------------------------------------------
- *  Output:
- *      The sum of numbers from 1 to 10 is: 55
- * ============================================================
  */
 
 #include <stdio.h>
@@ -28,3 +20,7 @@ int main()
 
     return 0;
 }
+/*
+*  Output:
+ *      The sum of numbers from 1 to 10 is: 55
+ */
