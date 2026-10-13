@@ -1,15 +1,7 @@
-/*
- * ============================================================
- *  File    : q01_assign_variables.c
- *  Unit    : 1 - Introduction (Variable, printf, scanf)
- * ------------------------------------------------------------
+
  *  Q1. Write a program to assign the value of one variable
  *      to another and print both.
  * ------------------------------------------------------------
- *  Output:
- *      23      23
- * ============================================================
- */
 
 #include <stdio.h>
 
