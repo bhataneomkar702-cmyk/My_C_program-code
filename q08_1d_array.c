@@ -1,16 +1,6 @@
 /*
- * ============================================================
- *  File    : q08_1d_array.c
- *  Unit    : 3 - Array (1D and 2D arrays)
- * ------------------------------------------------------------
  *  Q8. Write a program to declare, initialize and print a
  *      one-dimensional array.
- * ------------------------------------------------------------
- *  Output:
- *      marks[0] = 85
- *      marks[1] = 90
- *      marks[2] = 95
- * ============================================================
  */
 
 #include <stdio.h>
@@ -26,3 +16,9 @@ int main()
 
     return 0;
 }
+/*
+ *  Output:
+ *      marks[0] = 85
+ *      marks[1] = 90
+ *      marks[2] = 95
+    */
